@@ -316,7 +316,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#AE1E04;}
 
 
 /* Navigation */
-#mainav li a{color:inherit; font-family: "Comic Sans MS", cursive, sans-serif}
+#mainav li a{color:inherit; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:black; text-shadow: 1px 1px grey; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:#000000; border-color:rgba(0,0,0,.6);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#AE1E04;}
