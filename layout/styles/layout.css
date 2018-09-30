@@ -160,7 +160,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #mainav li{display:inline-block; position:relative; margin:0 30px 0 0; padding:0;}
 #mainav li:last-child{margin-right:0;}
 #mainav li li{width:100%; margin:0;}
-#mainav li a{display:block; padding:20px 0;}
+#mainav li a{display:block; padding:20px 0; margin-right: 16px;}
 #mainav li li a{border:solid; border-width:0 0 1px 0;}
 #mainav .drop{padding-left:15px;}
 #mainav li li a, #mainav li li .drop{display:block; margin:0; padding:10px 15px;}
@@ -316,7 +316,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#AE1E04;}
 
 
 /* Navigation */
-#mainav li a{color:inherit; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;}
+#mainav li a{color:inherit; font-family:"FontAwesome"; word-spacing: 15px; font-size: 18px;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:black; text-shadow: 1px 1px grey; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:#000000; border-color:rgba(0,0,0,.6);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#AE1E04;}
