@@ -421,3 +421,9 @@ table a, #comments a{background-color:inherit;}
 
 	#header #quickinfo li{display:block; margin-right:0;}
 }
+
+.flex-direction-nav {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: center !important;
+}
